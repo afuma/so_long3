@@ -1,4 +1,4 @@
-# so_long3
+# So_long
 
 ![so_long_image](so_long.png)
 
